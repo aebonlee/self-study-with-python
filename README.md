@@ -31,6 +31,6 @@
 
 [Images]
 - 
-![이미지 폴더 선택 창](readme-images/select-folder.png)
+<img src="https://github.com/aebonlee/self-study-with-python/blob/main/image-to-pdf-converter/readme-images/input-quality.png">
 
-![이미지 품질 입력 창](readme-images/input-quality.png)
+<img src="https://github.com/aebonlee/self-study-with-python/blob/main/image-to-pdf-converter/readme-images/input-quality.png">
